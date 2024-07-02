@@ -1,0 +1,15 @@
+.page {
+    display: flex;
+    background-image: url('../Images/Indian\ Dish\ \(2\).jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+.nav{
+    background-color: gold;
+
+}
+.icon{
+    margin-right: 20px;
+}

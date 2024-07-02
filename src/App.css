@@ -1,0 +1,99 @@
+.page1{
+    display:flex;
+    background-image: url('../src/Images/Foodpic.png');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.page2{
+    display:flex;
+    /* background-color:red; */
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.page3{
+    display:flex;
+    /* background-color:orange; */
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.page4{
+    display:flex;
+    /* background-color: purple; */
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.page5{
+    display:flex;
+    /* background-color: green; */
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    color: aqua;
+}
+ h1{
+    color:aliceblue;
+    font-size: larger;
+    font-weight:bold;
+}
+.BG{
+    margin-right: 20px;
+}
+
+.FoodBody{
+    display: flex;
+    flex-direction: column;
+}
+.allfood{
+    margin-top: 100px;
+}
+
+
+
+.Change {
+    display: flex;
+    background-image: url('./Images/plain\ img.jpg');
+    border: 4px solid black;
+    width: 100%;
+    background-size: cover;
+    flex-direction: column;
+}
+.Footer{
+    display: flex;
+    background-color:silver !important;
+    border: 4px solid black;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.Footer button{
+    background-color: gold;
+    border: 4px solid black;
+    border-radius: 30%;
+}
+.card-Image{
+    height: 300px;
+    width: 90%;
+    object-fit: cover;
+    border: 4px solid black;
+}
+.col-container{
+    margin-bottom: 20px;
+}
+.PW{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    background-color: yellow;
+    border: 4px solid blue;
+    border-radius: 50%;
+    
+    
+}
